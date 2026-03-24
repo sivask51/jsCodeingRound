@@ -8,3 +8,72 @@
 1. maimum problem
 loop, contions vachu problem solving pannalam
 
+
+
+1.functions 
+parameter vs arguments 
+call back
+function vs arrowfunction  diff
+forloop vs while vs i++ vs i--
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+🚀 15 Days LeetCode Plan (Beginner → Medium)
+🟢 Day 1–3 (Arrays Basics)
+
+Start with simple logic
+
+Two Sum
+Best Time to Buy and Sell Stock
+Contains Duplicate
+
+👉 Focus:
+
+Loop use panni solve pannunga
+Apram optimized solution (HashMap)
+
+
+🟢 Day 4–6 (Strings)
+Valid Palindrome
+Valid Anagram
+First Unique Character
+
+👉 Focus:
+
+String manipulation
+Frequency count (object / hashmap)
+
+
+🟡 Day 7–9 (Pattern Start 🔥)
+Longest Substring Without Repeating Characters
+Move Zeroes
+Maximum Subarray
+
+👉 New concept:
+
+Sliding Window
+Kadane’s Algorithm
+
+
+🟡 Day 10–12 (Intermediate)
+Product of Array Except Self
+Container With Most Water
+3Sum
+
+👉 Focus:
+
+Two Pointer technique
+Edge cases handle panna kathuko
+
+
+🔵 Day 13–15 (Medium Strong)
+Group Anagrams
+Longest Palindromic Substring
+Search in Rotated Sorted Array
+
+👉 Focus:
+
+Deep thinking
+Problem breakdown
